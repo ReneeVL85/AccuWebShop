@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  naam: MyString
+  beschrijving: MyText
+  op_voorraad: false
+  totaal_voorraad: 1
+  prijs: 1
+  afbeelding: MyText
+
+two:
+  naam: MyString
+  beschrijving: MyText
+  op_voorraad: false
+  totaal_voorraad: 1
+  prijs: 1
+  afbeelding: MyText
