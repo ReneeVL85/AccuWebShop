@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  subtotaal: 1
+  btw: 1
+  verzendkosten: 1
+  user_id: 
+  aantal: 1
+
+two:
+  subtotaal: 1
+  btw: 1
+  verzendkosten: 1
+  user_id: 
+  aantal: 1
